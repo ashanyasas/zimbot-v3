@@ -38,7 +38,7 @@ global.APIKeys = {
 
 // Other
 global.owner = ['+94710330800','']
-global.premium = ['27634090203','+94710330800']
+global.premium = ['+940704898700','+94710330800']
 global.botname = 'ashan INC'
 global.ownername = 'tharusha'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
