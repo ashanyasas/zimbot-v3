@@ -37,7 +37,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['+94710330800','']
+global.owner = ['+94710330800','+94704898700']
 global.premium = ['+940704898700','+94710330800']
 global.botname = 'ashan INC'
 global.ownername = 'tharusha'
