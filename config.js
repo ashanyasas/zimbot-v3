@@ -8,7 +8,7 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
+//▮WHATSAPP US : +94710330800
 //▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -37,14 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'ZIM BOT INC'
-global.ownername = 'DRIPS'
+global.owner = ['+94710330800','+94710330800']
+global.premium = ['+940710330800','+94710330800']
+global.botname = 'ashan office'
+global.ownername = 'tharu'
 global.group1 = 'https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A'
 global.group2 = 'https://chat.whatsapp.com/HSfcYU13g5C8GxINWwSWoA'
-global.packname = 'ZIM BOT INC'
-global.ytchannel = 'https://youtu.be/ww4z2m3uORU'
+global.packname = 'by tharuuu'
+global.ytchannel = 'https://www.youtube.com/channel/UCxUr80-Cfr40KOyAqYo4Ofw'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
